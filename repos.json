@@ -1,0 +1,14 @@
+{
+    "ignitionrobotics/ign-plugin": {
+        "project_file": "data/repositories/ignitionrobotics/ign-plugin.json",
+        "project_path": "data/repositories/ignitionrobotics/ign-plugin/",
+        "is_fork": false,
+        "github_repo": "https://github.com/scpeters-test/ign-plugin"
+    },
+    "ignitionrobotics/ign-plugin-release": {
+        "project_file": "data/repositories/ignitionrobotics/ign-plugin-release.json",
+        "project_path": "data/repositories/ignitionrobotics/ign-plugin-release/",
+        "is_fork": false,
+        "github_repo": "https://github.com/scpeters-test/ign-plugin-release"
+    }
+}
